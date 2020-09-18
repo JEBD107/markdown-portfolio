@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Pato](https://i.pinimg.com/originals/6f/1e/44/6f1e4400cdbc2732cf5e97cdfbb32aea.jpg)
